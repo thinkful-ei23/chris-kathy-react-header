@@ -12,6 +12,6 @@ const links = [{
 }];
 
 ReactDOM.render(
-  <NavigationBar title="Thinkful" links={links} />,
-  document.getElementById('root')
+    <NavigationBar title="Thinkful" links={links} />,
+    document.getElementById('root')
 );
